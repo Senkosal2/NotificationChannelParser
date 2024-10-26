@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotificationChannelParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57152a51e428888ce247bf5e31e69fa9730ae50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0cb5ea18da05c09ba2808a1c69fecdf53f5f54")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotificationChannelParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotificationChannelParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
