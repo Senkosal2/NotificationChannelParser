@@ -8,3 +8,4 @@ I did some validation and implement a little bit more.
 * Show message, not only channel received
 * Input validation to only accept as format: [channel] message
 * Prompt for invalid input
+* Recommend for re-enter when no channel receieved
