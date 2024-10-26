@@ -1,0 +1,15 @@
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.exe
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.deps.json
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.runtimeconfig.json
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.dll
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.pdb
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfoInputs.cache
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfo.cs
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.csproj.CoreCompileInputs.cache
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.sourcelink.json
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.dll
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\refint\NotificationChannelParser.dll
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.pdb
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.genruntimeconfig.cache
+Z:\Documents\C#\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\ref\NotificationChannelParser.dll
